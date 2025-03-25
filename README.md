@@ -4,6 +4,9 @@
 
 **Founder Flow** is an AI-powered platform designed to empower solo founders by validating business ideas, offering strategic guidance, and streamlining fundraising to turn entrepreneurial visions into reality. Built for a hackathon with the theme of GenAI, this project leverages **Google Generative AI (Gemini)** to provide intelligent support across multiple aspects of a startup journey.
 
+## Demo Video
+[![Demo Video](https://img.youtube.com/vi/BvzniPOyJrQ/0.jpg)](https://youtu.be/BvzniPOyJrQ)
+
 ## Features
 
 ### 🧠 **Ideation Tools**
